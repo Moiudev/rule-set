@@ -1,0 +1,17 @@
+include:800best
+include:cainiao
+include:deppon
+include:fcbox
+include:jtexpress
+include:kuaidi100
+include:sf-express
+include:sto-express
+include:yto-express
+include:yundaex
+include:zto-express
+
+# GUOO国欧物流 粤ICP备2020101377号
+guoocang.com
+
+# 快递网
+kuaidi.com
