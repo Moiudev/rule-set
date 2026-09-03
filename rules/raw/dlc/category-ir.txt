@@ -1,0 +1,74 @@
+# Iranian websites or domains that are intended to be accessed from Iranian IP addresses (though this may not necessarily apply to all of them).
+# Hence, it is recommended to utilize direct connection for this category.
+
+# Iran TLDs
+ir
+xn--mgba3a4f16a # .ایران
+
+include:category-ads-ir
+include:category-bank-ir
+include:category-bourse-ir
+include:category-education-ir
+include:category-forums-ir
+include:category-gov-ir
+include:category-insurance-ir
+include:category-media-ir
+include:category-news-ir
+include:category-payment-ir
+include:category-scholar-ir
+include:category-shopping-ir
+include:category-social-media-ir
+include:category-tech-ir
+include:category-travel-ir
+
+# Conglomerate company
+include:snapp
+
+# Blog
+blogfa.com
+blogsky.com
+loxblog.com
+niniweblog.com
+rozblog.com
+
+# Maps
+balad.ir
+neshan.org
+raah.ir
+
+# Sport
+varzesh3.com
+
+# Financial
+isignal.ir
+signalpardazgroup.com
+tgju.org
+
+# Cars
+bama.ir
+car.ir
+ikco.ir
+karnameh.com
+khodro45.com
+saipacorp.com
+
+# Misc
+porsline.ir
+time.ir
+
+# Jobs
+jobinja.com
+jobinja.ir
+jobinjacdn.com
+
+beytoote.com
+setare.com
+tebyan.net
+
+# Courier Services
+dekapost.com
+mahex.com
+miare.ir
+podro.com
+tipax.ir
+tipaxco.com
