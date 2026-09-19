@@ -1,0 +1,23 @@
+10099.com.cn
+cbn.cn
+
+# 安徽省
+ahitv.com
+
+# 重慶市
+cqccn.com
+
+# 廣東廣電網路
+gcable.com.cn
+
+# 四川省
+sc96655.com
+
+# 山西省
+isxtv.com
+
+# 山東省
+sdgdwljt.com
+
+# 3GPP 公网域 (IMS / VoWiFi)
+mnc015.mcc460.pub.3gppnetwork.org

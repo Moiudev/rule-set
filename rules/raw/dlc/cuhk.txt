@@ -1,0 +1,17 @@
+# The Chinese University of Hong Kong (CUHK)
+cuhk.hk
+cuhk.edu.hk
+# 中大.hk
+xn--fiq80y.hk
+# 中大.香港
+xn--fiq80y.xn--j6w193g
+
+# 中文大學.hk
+xn--fiq80y3xbiwr.hk
+# 中文大學.香港
+xn--fiq80y3xbiwr.xn--j6w193g
+
+# 香港中文大學.hk
+xn--fiq80y3xbiwrs0kiu9d.hk
+# 香港中文大學.香港
+xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g

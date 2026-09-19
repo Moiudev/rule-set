@@ -1,0 +1,5 @@
+include:duowan
+
+yy.com
+yyeshop.cn
+yystatic.com
