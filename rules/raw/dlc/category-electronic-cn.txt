@@ -1,0 +1,85 @@
+# Electronic store/company's website with access point in China
+
+# Analog
+analog.com
+
+# 艾睿电子
+arrow.cn
+
+# 圆刚科技
+avermedia.cn
+
+# 京东方
+boe.com
+boe.com.cn
+
+# 博流智能
+bouffalolab.com
+
+# 长鑫存储
+cxmt.com
+
+# 乐鑫信息科技
+include:espressif @-!cn
+
+# 华秋电子
+eda.cn
+elecfans.com
+hqchip.com
+hqdoc.com
+hqpcb.com
+
+# 英飞凌
+infineon.cn
+#infineon.com
+
+# 紫光集团
+gosinoic.com
+h3c.com
+moedu.com
+thunis.com
+tsinghuaic.com
+tsingtengms.com
+unicloud.com
+unigroup.com.cn
+uniscan.cn
+unisdigital.com
+unisemicon.com
+unisoc.com
+unispc.com
+uniswdc.com
+
+# 嘉立创集团
+include:jlc
+
+# 聆思科技
+listenai.com
+
+# 移远通信
+quecmall.cn
+quectel.com.cn
+iotronic.tech
+
+# 瑞芯微电子
+rock-chips.com
+
+# 矽递科技
+seeed.cn
+seeed.cc
+seeed.com.cn
+seeedstudio.com.cn
+
+# 矽速科技
+sipeed.com
+maixhub.com
+
+# 德州仪器
+#ti.com
+ti.com.cn
+
+# 沁恒微电子
+wch.cn
+wch-ic.com
+
+# 长江存储
+include:ymtc
