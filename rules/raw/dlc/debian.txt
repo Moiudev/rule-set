@@ -1,0 +1,5 @@
+debian.org
+dotdeb.org
+
+# CDN
+debian.map.fastlydns.net

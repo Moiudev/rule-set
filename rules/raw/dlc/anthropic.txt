@@ -1,0 +1,25 @@
+ant.dev
+anthropic.com
+anthropic.team
+antspace.dev # https://github.com/AprilNEA/reverse-engineering-claude-code-antspace
+chatbotclaude.com
+clau.de
+claude.ai
+claude.app
+claude.com
+claude.dev
+claude.new
+claude.site
+claudeacademy.com
+claudemcpclient.com
+claudemcpcontent.com
+claudepages.dev
+claudestudio.com
+claudeusercontent.com
+
+# CDN
+full:servd-anthropic-website.b-cdn.net
+
+# Claude Code telemetry
+full:http-intake.logs.us5.datadoghq.com @telemetry
+full:o1158394.ingest.us.sentry.io @telemetry

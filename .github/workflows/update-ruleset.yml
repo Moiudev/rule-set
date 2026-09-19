@@ -1,0 +1,57 @@
+name: 更新规则集
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+
+      - name: 设置 Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.x"
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 执行脚本
+        run: python -m scripts.main
+
+      - name: 提交变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add *.json *.srs rules/raw rules/clean
+
+          # 检查是否有文件变更，无变更则退出
+          if git diff --cached --quiet; then
+            echo "无文件变更，跳过提交"
+            exit 0
+          fi
+
+          # 判断是否已有提交
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            git commit --amend -m "更新于 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+          else
+            git commit -m "更新于 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+          fi
+
+          # 强制推送，覆盖远程 main 分支
+          git push --force-with-lease origin main

@@ -1,0 +1,34 @@
+# /rules/sources.toml
+# 规则源配置。
+#
+# 结构：
+#   [group]
+#   name = "https://..."
+#
+# 文件保存路径：/rules/raw/{group}/{name}.txt
+# 新增源直接在对应分组下追加一行即可。
+
+# ================================ 广告 ================================
+[ads]
+adguard_base_adservers = "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt"
+adguard_china_adservers = "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt"
+adguard_mobile_adservers = "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt"
+adguard_sdns_filter_rules = "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt"
+badmojr_1hosts_lite_adblock = "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
+damengzhu_dnslist = "https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt"
+hagezi_adblock_pro = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+pgl_yoyo_org_hosts = "https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts"
+phishing_army_blocklist = "https://phishing.army/download/phishing_army_blocklist.txt"
+sjhgvr_oisd_small = "https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt"
+someonewhocares_hosts = "https://someonewhocares.org/hosts"
+stevenblack_kadhosts = "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts"
+twilight_awaenue_ads_rule = "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+
+# =============================== 中国 IP ==============================
+[ip]
+gaoyifan_china46 = "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china46.txt"
+
+# ============================== 中国域名 ==============================
+[domain]
+blackmatrix7_chinamax_domain = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Domain.txt"
+felixonmars_dnsmasq-china-list = "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf"
