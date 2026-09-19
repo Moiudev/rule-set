@@ -1,0 +1,39 @@
+# https://www.iana.org/domains/root/db/cbs.html
+# cbs (Revoked)
+
+# https://www.iana.org/domains/root/db/showtime.html
+# showtime (Revoked)
+
+cbs.com
+cbscorporation.com
+cbsi.com
+cbsi.video
+cbsiam.com
+cbsig.net
+cbsimg.net
+cbsinteractive.com
+cbsistatic.com
+cbsivideo.com
+cbsnews.com
+cbspressexpress.com
+cbssports.com
+cbsstatic.com
+cbssvideo.com
+viacbs.com
+viacom.com
+viacomcbs.com
+viacomcbspressexpress.com
+
+# Paramount
+paramount.com
+
+# Paramount Plus
+amlg.io
+cbsaavideo.com
+mtvnservices.com
+paramountplus.com
+pplusstatic.com
+full:cbsi.live.ott.irdeto.com
+full:cbsplaylistserver.aws.syncbak.com
+full:cbsservice.aws.syncbak.com
+full:link.theplatform.com
