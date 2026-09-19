@@ -1,0 +1,8 @@
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+att.tv
+atttvnow.com
+attwatchtv.com
+dtvce.com
+nettyinternet.com

@@ -1,0 +1,15 @@
+wa.me
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+whatsapp.cc
+whatsapp.com
+whatsapp.info
+whatsapp.net
+whatsapp.org
+whatsapp.tv
+whatsappbrand.com
+
+# Ads/tracking
+# graph.whatsapp.com and graph.whatsapp.net aren't solely for ads,
+# see https://github.com/v2fly/domain-list-community/issues/4127
