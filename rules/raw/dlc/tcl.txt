@@ -1,0 +1,37 @@
+# 粤ICP备2020114412号
+tclai.top
+
+# 粤ICP备05040863号
+tcl.com
+tcl.com.cn
+tcltech.com
+
+# 粤ICP备17088321号
+leiniao.com
+
+# 粤ICP备14002670号
+my7v.com
+
+# Ads/tracking
+ads-uo.api.leiniao.com @ads
+ads-ut.api.leiniao.com @ads
+ads.api.my7v.com @ads
+euads-o.api.leiniao.com @ads
+hwads-t.api.my7v.com @ads
+testads.api.my7v.com @ads
+# boot ad delivery, creative CDN, and the ad SDK key server
+ads-api-o.api.leiniao.com @ads
+ads-o.res.leiniao.com @ads
+ads-api-t.my7v.com @ads
+isms-o.api.my7v.com @ads
+
+# Telemetry: BI report, report config, QMS error report, Bugly app config
+base.api.my7v.com @telemetry
+dc-conf-o.api.leiniao.com @telemetry
+dc-conf-t.api.leiniao.com @telemetry
+dc-o.api.leiniao.com @telemetry
+dc-t.api.leiniao.com @telemetry
+dc-uo.api.leiniao.com @telemetry
+dc-ut.api.leiniao.com @telemetry
+qms-report-o.api.leiniao.com @telemetry
+qms-report-t.api.leiniao.com @telemetry

@@ -1,0 +1,20 @@
+hdrezka-home.tv
+hdrezka.ac
+hdrezka.ag
+hdrezka.cm
+hdrezka.co
+hdrezka.me
+hdrezka.org
+hdrezka.site
+rezka.ag
+rezka.fi
+statichdrezka.ac
+
+# HDrezka App for Android
+hdrzk.org
+
+# hdrezka video CDN servers
+static.voidboost.com
+stream.voidboost.cc
+stream.voidboost.one
+voidslam.org
