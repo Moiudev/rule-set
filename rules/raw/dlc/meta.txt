@@ -1,0 +1,15 @@
+include:facebook
+include:facebook-dev
+include:instagram
+include:messenger
+include:oculus
+include:threads
+include:whatsapp
+
+atmeta.com
+llama.com
+meta.ai
+meta.com
+metaaiusercontent.com
+metaaivm.com
+muse.ai
