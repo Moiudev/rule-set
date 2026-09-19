@@ -1,0 +1,40 @@
+include:bilibili-cdn
+include:bilibili-game
+
+# 哔哩哔哩漫画
+bilicomic.com
+bilicomics.com
+
+# 猫耳FM
+maoer.com
+missevan.com
+
+acg.tv
+acgvideo.com
+animetamashi.cn
+animetamashi.com
+anitama.cn
+anitama.net
+b23.tv
+bigfun.cn
+bigfunapp.cn
+bili22.cn
+bili2233.cn
+bili23.cn
+bili33.cn
+biliapi.com
+biliapi.net
+bilibili.cc
+bilibili.cn
+bilibili.com
+bilibili.net
+bilibili.tv @!cn
+bilibilipay.cn
+bilibilipay.com
+biligo.com
+biliintl.com @!cn
+dreamcast.hk @!cn
+huasheng.cn
+im9.com
+updream.cn
+yo9.com
