@@ -1,0 +1,7 @@
+# All .godaddy domains
+godaddy
+
+godaddy.com
+godaddy.net
+wsimg.com
+x.co # GoDaddy URL Shortener

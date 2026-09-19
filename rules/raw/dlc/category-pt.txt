@@ -1,0 +1,178 @@
+## TODO: add annotations
+52dic.vip
+52pt.site
+audiences.me
+carpt.net
+ccfbits.org
+cinefiles.info
+dicmusic.com
+eastgame.org
+et8.org
+greatposterwall.com
+haidan.video
+hdarea.club
+hdatmos.club
+hdcity.city
+hddolby.com
+hdfans.org
+hdmayi.com
+hdpt.xyz
+hdtime.org
+hdvideo.one
+hhan.club
+hhanclub.top
+hhanclub.net
+ianon.app
+kufei.com
+kufei.org
+leaves.red
+nicept.net
+open.cd
+piggo.me
+pt.0ff.cc
+pt.btschool.club
+pt.eastgame.org
+pt.hd4fans.org
+pt.soulvoice.club
+ptchina.org
+pthome.net
+ptsbao.club
+pttime.org
+pttime.top
+rousi.zip
+share.ilolicon.com
+sharkpt.net
+zhuque.in
+
+
+# Non-Chinese trackers
+myanonamouse.net @!cn
+nebulance.io @!cn
+torrentleech.cc @!cn
+torrentleech.org @!cn
+## TODO: add annotations
+animebytes.tv
+avistaz.to
+beyond-hd.me
+bibliotik.me
+blutopia.cc
+broadcasthe.net
+cinemaz.to
+digitalcore.club
+exoticaz.to
+filelist.io
+gazellegames.net
+hdbits.org
+iptorrents.com
+jpopsuki.eu
+jptv.club
+morethantv.me
+orpheus.network
+passthepopcorn.me
+privatehd.to
+redacted.sh
+sportscult.org
+superbits.org
+uhdbits.org
+
+
+# To Chinese Users:
+#    The following domains are not supposed to be proxied
+
+# 天雪论坛
+skyey2.com @!cn
+skyeysnow.com @!cn
+
+# M-Team
+m-team.cc @!cn
+m-team.io @!cn
+mt.cc @!cn
+
+# U2
+dmhy.best @!cn
+dmhy.org @!cn
+
+# 北邮人
+bt.byr.cn
+byr.pt
+
+# 北洋园PT
+tju.pt
+tjupt.org
+
+# CHD
+chdbits.co
+chdbits.xyz
+chddiy.xyz
+ptchdbits.co
+rainbowisland.co
+
+# HDKylin
+hdkyl.in
+hdkylin.top
+hdkylin.work
+
+# 好多油
+pt.hdupt.com
+pt.upxin.net
+
+# ubits 你堡
+ubits.club
+
+# UltraHD
+ultrahd.net
+
+# 咖啡
+ptcafe.club
+
+# 织匿名
+zmpt.cc
+
+# 冬樱
+wintersakura.net
+
+# 熊猫
+pandapt.net
+
+# 壹PT
+1ptba.com
+
+# 冰激淋
+icc2022.com
+
+# 大青虫
+cyanbug.net
+
+# 柠檬PT
+ilovelemonhd.me
+lemonhd.club
+lemonhd.net
+lemonhd.org
+
+# 备胎
+beitai.pt
+
+# NexusHD
+nexushd.org
+
+bitpt.cn
+hdarea.club
+hdchina.org
+hdcmct.org
+hdhome.org
+hdsky.me
+hdzone.me
+hitpt.com
+hudbt.hust.edu.cn
+keepfrds.com
+nanyangpt.com
+neu6.edu.cn
+npupt.com
+ourbits.club
+pt.nwsuaf6.edu.cn
+pt.sjtu.edu.cn
+pt.xauat.edu.cn
+pterclub.com
+pterclub.net
+springsunday.net
+totheglory.im
