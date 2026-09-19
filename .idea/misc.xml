@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.14 (rule-set)" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="moduleKind" value="plain" />
+  </component>
+  <component name="KubernetesApiProvider">{}</component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (rule-set)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="increaseLineSpacing" value="true" />
+    <option name="showWarnings" value="true" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+# All .playstation domains
+playstation
+
+playstation.com
+playstation.net
+playstationnetwork.com
+sonyentertainmentnetwork.com
